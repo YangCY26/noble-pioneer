@@ -16,7 +16,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
   
-doi: 10.1080/00914037.2019.1617710
+  # doi: 10.1080/00914037.2019.1617710
 url_pdf: ''
 
 publication: "*International Journal of Polymeric Materials and Polymeric Biomaterials*"

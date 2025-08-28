@@ -1,6 +1,6 @@
 ---
-title: Flexible hemline-shaped microfibers for liquid transport
-subtitle: Hemline-shaped microfibers
+title: Flexible liquid-diode microtubes from multimodal microfluidics
+subtitle: Liquid-diode microtube
 publication_types:
   - "2"
 authors:
@@ -13,7 +13,7 @@ authors:
 author_notes:
   # - Equal contribution
   # - Equal contribution
-doi: 10.1073/pnas.2402331121
+  # doi: 10.1073/pnas.2402331121
 url_pdf: ''
 publication: "*Proceedings of the National Academy of Sciences*"
 publication_short: "*Proc. Natl. Acad. Sci.*"

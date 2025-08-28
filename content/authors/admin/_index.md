@@ -1,9 +1,9 @@
 ---
 # Display name
-#title: 杨超宇
+title: Chaoyu YANG
 
 # Name pronunciation (optional)
-name_pronunciation: Chaoyu Yang
+# name_pronunciation: Chaoyu Yang
 
 # Full name (for SEO)
 first_name: Chaoyu
@@ -20,7 +20,7 @@ status:
 superuser: true
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Role/position/tagline
 role: Research Assistant Professor of Mechanical and Automation Engineering (MAE)
@@ -37,10 +37,10 @@ profiles:
     url: 'mailto:cyyang@cuhk.edu.hk'
     label: E-mail Me
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?hl=zh-CN&user=IvQEGk8AAAAJ
+    url: https://scholar.google.com/citations?user=IvQEGk8AAAAJ&hl=zh-CN&oi=ao
     label: Google Scholar
   - icon: academicons/cv
-    url: uploads/CV_YangCY.pdf
+    url: uploads/resume.pdf
     label: View CV
 
 # Research interests (保留旧内容的5个核心方向)
@@ -125,13 +125,7 @@ work:
 #        icon: beaker  # 可自定义图标
 
 # Languages (结合学术背景补充，旧内容无，合理推测)
-languages:
-  - name: Chinese
-    percent: 100
-  - name: English
-    percent: 90  # 国际期刊发表+学术交流需求，推测熟练
-  - name: Technical Writing (Academic)
-    percent: 95  # 论文发表能力，单独分类体现优势
+
 
 # Awards (旧内容无奖项信息，暂留空，可后续补充)
 awards: []

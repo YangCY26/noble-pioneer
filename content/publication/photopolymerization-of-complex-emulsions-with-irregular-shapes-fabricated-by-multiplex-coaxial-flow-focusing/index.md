@@ -16,7 +16,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-doi: doi.org/10.1063/1.5018207
+  # doi: doi.org/10.1063/1.5018207
 publication: "*Applied Physics Letters*"
 publication_short: "*Appl. Phys. Lett.*"
 abstract: >-

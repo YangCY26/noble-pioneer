@@ -13,7 +13,7 @@ authors:
 author_notes:
   # - Equal contribution
   # - Equal contribution
-doi: 10.1016/j.engreg.2021.09.006
+  # doi: 10.1016/j.engreg.2021.09.006
 url_pdf: ''
 publication: "*Engineered Regeneration*"
 publication_short: "*Eng. Regen.*"

@@ -14,7 +14,7 @@ authors:
 author_notes:
   # - Equal contribution
   # - Equal contribution
-doi: 10.1016/j.cej.2022.138669
+  # doi: 10.1016/j.cej.2022.138669
 url_pdf: ''
 publication: "*Chemical Engineering Journal*"
 publication_short: "*Chem. Eng. J.*"

@@ -15,7 +15,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-doi: 10.1039/c7lc00769h
+  # doi: 10.1039/c7lc00769h
 url_pdf: ''
 publication: "*Lab on a Chip*"
 publication_short: "*Lab Chip*"

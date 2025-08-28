@@ -25,7 +25,7 @@ sections:
         size: medium  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
       background:
-        color: black
+        color: white
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
@@ -39,9 +39,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research focuses on bridging microscale engineering principles with nature-inspired design to address challenges in novel material production, fluid control, and small-scale robotics.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
         Please reach out to collaborate 😃
     design:
