@@ -1,7 +1,7 @@
 ---
-title: 👩🏼‍🏫 Closed Liquid Diode Medical Catheters via Microfluidics | Final Research Outcomes
+title: Closed Liquid Diode Medical Catheters via Microfluidics | Final Research Outcomes
 summary: Comprehensive presentation of completed research on microfluidic closed liquid diode medical catheters (inspired by Nepenthes peristome), including technical breakthroughs, performance data, and clinical validation.
-date: 2025-08-01
+date: 2025-06-01
 math: true
 authors:
   - admin
@@ -22,13 +22,25 @@ This project has successfully developed and validated **microfluidic-based close
 
 ### 2.1 Scalable Microfluidic Fabrication Process
 
+{{< video src="Movie S1.mp4" controls="no" title="Video 1: Real-time fabrication process" caption="By introducing piezoelectric vibration, the inner stream is activated and deformed into corrugations.  The outer phase is then polymerized by UV irradiation to generate the microtube" >}}
+
 The preparation method is a microfluidic-based fabrication process that uses a sacrificial-layer vibration-assisted molding strategy—mimicking the peristome microstructure of Nepenthes, it fabricates closed medical catheters with periodic overlapping reverse-cone microcavities on the inner wall to achieve directional liquid transport.
 
 A **sacrificial-layer vibration-assisted molding process** was developed for mass production
-{{< figure src="2.png" title="Figure 2: Microfluidic fabrication workflow" caption="(1) Material injection; (2) Piezoelectric vibration; (3) UV curing; (4) Sacrificial layer removal; (5) Finished catheter" >}}
-{{< figure src="3.png" title="Figure 2: Microfluidic fabrication workflow" caption="(1) Material injection; (2) Piezoelectric vibration; (3) UV curing; (4) Sacrificial layer removal; (5) Finished catheter" >}}
+{{< figure src="2.png" title="" caption="Photograph of a liquid diode microtube" >}}
+{{< figure src="3.png" title="" caption="Photograph of a liquid diode microtube" >}}
 
-{{< video src="Movie S1.mp4" controls="no" title="Video 1: Real-time fabrication process" caption="Full demonstration of microfluidic molding, from raw material to finished catheter" >}}
+{{< figure src="SEM.png" title=" " caption="SEM images showing the microstructure of the microtube" >}}
+
+{{< video src="Movie S2.mp4" controls="no" caption="Real-time fabrication process" >}}
+
+{{< video src="Movie S5.mp4" controls="no" title=" xx " caption="Demonstation of the liquid transport ability in the microtube" >}}
+
+{{< figure src="illustration.png" title="" caption="Schematic of continuous liquid injection, incorporating microstructures, liquid properties, injection flow rate, and plug length, with consideration of gravity" >}}
+
+
+## Significance Statement
+Directional liquid transport within confined spaces is crucial for both fundamental studies and industrial applications. Despite extensive progress in engineering diverse open surfaces to rectify liquid transport, the implementation of diode-like liquid transport in closed spaces is still challenging. In this study, we present introduces a flexible liquid-diode microtube designed specifically for directional liquid transport in confined spaces, achieved through multimodal microfluidics. Besides, a flow lithography modality is introduced to produce short microtube segments to construct a fluidic-electronic circuit with the ability to execute dual logic control.
 
 [//]: # ()
 [//]: # ()

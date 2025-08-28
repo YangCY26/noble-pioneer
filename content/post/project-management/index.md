@@ -9,6 +9,8 @@ tags:
   - Markdown
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+draft: true
+publishdate: 2100-01-01
 ---
 
 Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
